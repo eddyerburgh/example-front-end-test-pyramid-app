@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonComponent.vue has same HTML structure 1`] = `
+<button class="button">
+  Open modal
+</button>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalComponent.vue has same HTML structure 1`] = `
+<div class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+            <p class="modal-card-title">The front-end test pyramid</p> <button aria-label="close" class="delete"></button></header>
+        <section class="modal-card-body">
+            The front-end test pyramid is a guide for organizing test suites.
+        </section>
+        <footer class="modal-card-foot"><button class="button is-success">Ok</button></footer>
+    </div>
+</div>
+`;
