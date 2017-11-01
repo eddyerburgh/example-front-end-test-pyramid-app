@@ -20,7 +20,7 @@ describe('ModalComponent.vue', () => {
     expect(wrapper.element.classList).toContain('is-active')
   })
 
-  test('has class is-active when displayModal is true', () => {
+  test('has class is-active when displayModal is false', () => {
     const localVue = createLocalVue()
     localVue.use(Vuex)
     const store = new Vuex.Store({
